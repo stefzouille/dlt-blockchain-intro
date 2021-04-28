@@ -46,7 +46,7 @@
    que dois je modifier dans la Blockchain et que dois je mettre en oeuvre pour que cette modification persiste ?
    Est ce possible selon vous ?
 
-
+    deja il vaudrait mieux modifier a la hausse et non a la baisse.
     il faudrait modifier les données de la transaction hashé stocké   
     du merkle root dans le bloc header, et ensuite modifier   
     tout les headers des blocks suivants deja validé et ,
