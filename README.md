@@ -5,14 +5,16 @@
     Comment est géré le cas ou le nombre de transactions dans le Block à valider est impair pour générer un Merlke root ?
 
 
-      Dans le cas où le nombre d'empreintes à combiner est impair, on combine la dernière empreinte avec elle-même. 
+      Dans le cas où le nombre d'empreintes à combiner est impair,   
+      on combine la dernière empreinte avec elle-même.   
       ont dois la concatener avec elle meme pour calculer..
 
 
 2-  Dans le réseau bitcoin, Comment un nouveau noeud arrive t'il à retrouver ses pairs et ainsi rejoindre le réseau ?  
     Expliquer le processus avec vos propres mots.
 
-      je pense qu il retrouve ses pairs grace au logiciel  bitcoinCore qui est un protocole en p2p.
+      je pense qu il retrouve ses pairs grace au logiciel   
+      bitcoinCore qui est un protocole en p2p.
       
 
 
@@ -27,7 +29,8 @@
 4- Avec vos propres recherches et grâce aux compétences acquises en cours pouvez vous expliquer 
    comment une Blockchain crée un lien entre ses différents Blocks?
    
-      le bloc deja validé emet un hash et le premier qui trouve ce hash pour le bloc suivant est authorisé a ajouter le bloc a la blockchain.
+      le bloc deja validé emet un hash et le premier qui trouve ce hash   
+      pour le bloc suivant est authorisé a ajouter le bloc a la blockchain.
 
 
 
@@ -44,9 +47,13 @@
    Est ce possible selon vous ?
 
 
-    il faudrait modifier les données de la transaction hashé stocké du merkle root dans le bloc header, et ensuite modifier tout les headers des blocks suivants deja validé et ,
+    il faudrait modifier les données de la transaction hashé stocké   
+    du merkle root dans le bloc header, et ensuite modifier   
+    tout les headers des blocks suivants deja validé et ,
     de nouveau refaire une preuve de travaille pour chaque bloc...
-    bah si ont arrive a pirater quasiment tous les ordinateurs du reseaux distribué en meme temps et avec la puissance de tous les ordinateurs connectés du monde (quantique aussi pour le coup)
+    bah si ont arrive a pirater quasiment tous les ordinateurs du reseaux distribué   
+    en meme temps et avec la puissance de tous les ordinateurs connectés du monde   
+    (et les ordinateurs quantique aussi pour le coup)
     ca devrait etre possible imaginairement parlant bien sur...
     Donc non absolument pas realisable actuellement..
 
