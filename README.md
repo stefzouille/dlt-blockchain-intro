@@ -7,7 +7,7 @@
 
       Dans le cas où le nombre d'empreintes à combiner est impair,   
       on combine la dernière empreinte avec elle-même.   
-      ont dois la concatener avec elle meme pour calculer..
+      ont doit la concatener avec elle meme pour calculer..
 
 
 2-  Dans le réseau bitcoin, Comment un nouveau noeud arrive t'il à retrouver ses pairs et ainsi rejoindre le réseau ?  
