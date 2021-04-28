@@ -38,7 +38,7 @@
    https://en.wikipedia.org/wiki/List_of_data_structures ?
 
 
-     Structures à base de hachage
+     Structures à base de hachage Merkle tree
 
 
 
