@@ -50,7 +50,8 @@
     il faudrait modifier les données de la transaction hashé stocké   
     du merkle root dans le bloc header, et ensuite modifier   
     tout les headers des blocks suivants deja validé et ,
-    de nouveau refaire une preuve de travaille pour chaque bloc...
+    de nouveau refaire une preuve de travaille pour chaque bloc..
+    tout ca en tenant compte que chaque 10min de nouveu bloc continu de s ajouté.
     bah si ont arrive a pirater quasiment tous les ordinateurs du reseaux distribué   
     en meme temps et avec la puissance de tous les ordinateurs connectés du monde   
     (et les ordinateurs quantique aussi pour le coup)
